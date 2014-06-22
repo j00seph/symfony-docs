@@ -136,10 +136,7 @@ setup:
 * Running ``assets:install`` (taken care of already in ``composer.phar install``)
 * Add/edit CRON jobs
 * Pushing assets to a CDN
-* ...
-
-Tweaking For Performance
-------------------------
+* Tweaking For Performance ( look here:  <book-performance> )
 
 
 Application Lifecycle: Continuous Integration, QA, etc
